@@ -30,11 +30,7 @@ This repository is divided into two major phases:
 
 ### 📁 Qualification Round
 
-Complete writeups covering fundamental to advanced challenges across multiple security domains.
-
 ### 📁 Finals Round
-
-Elite-level challenges requiring deep technical expertise and creative problem-solving approaches.
 
 ---
 
@@ -143,12 +139,10 @@ Elite-level challenges requiring deep technical expertise and creative problem-s
 ```
 TechTonicExpo/
 ├── Quals/
-│   └── pdf/
-│       └── WriteUpTechTonicExpo - F3N9_SHU1.pdf
+│   └── WriteUpTechTonicExpo - F3N9_SHU1.pdf
 │
 ├── Finals/
-│   └── pdf/
-│       └── FengShui - TechTonicExpoCTF - WriteUp - Final - English.pdf
+│   └── FengShui - TechTonicExpoCTF - WriteUp - Final - English.pdf
 │
 └── README.md
 ```
